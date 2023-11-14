@@ -1,0 +1,1 @@
+This is some sample text to read inside of our Java IO operations... 僕に友達はとても大切なものです🥰🥰🥰
